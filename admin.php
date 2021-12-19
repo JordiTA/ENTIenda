@@ -65,7 +65,7 @@ EOD;
 	
 	<h2>Actualización producto</h2>
 	<p><label for="product">Product</label>
-		<input type="text" name="product" id="product" value="{$prod["product"]}" /></p>
+	<input type="text" name="product" id="product" value="{$prod["product"]}" /></p>
 	<p><label for="description">Description</label><input type="text" name="description" id="description"  value="{$prod["description"]}" /></p>
 	<p><label for="price">Price</label><input type="text" name="price" id="price"  value="{$prod["price"]}" /></p>
 	<p><label for="reference">Reference</label><input type="text" name="reference" id="reference"  value="{$prod["reference"]}" /></p>
